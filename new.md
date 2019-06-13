@@ -1,3 +1,7 @@
-this is a new file for md
+## This is a new file for md
 
-it is unformated, just for checking git functionality
+It is unformated, just for checking git functionality
+
+The file is now formated
+
+## This is my new header, look it's cool!
